@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinesh Kumar Paramasivam</title>
+</head>
+<body>
+    <h1>Welcome to My Personal Website</h1>
+    <p>Hi, I'm Dinesh Kumar Paramasivam, an experienced engineering leader in fintech and banking. This site showcases my professional work, interests, and hobbies.</p>
+    
+    <h2>About Me</h2>
+    <p>19+ years in fintech, banking, telecom, and cloud architecture.</p>
+
+    <h2>Hobbies & Interests</h2>
+    <ul>
+        <li>Tech Meetups & Networking</li>
+        <li>Latin Dance & Exploring Lisbon</li>
+        <li>Hiking & Trekking</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Find me on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> or email me at youremail@example.com.</p>
+</body>
+</html>
